@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pozzi\\source\\repos\\LR3.3\\",
+  "WorkspaceRootPath": "C:\\Users\\pozzi\\source\\repos\\LR4.4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E14C348C-D80D-40FE-A1C2-A01A84CD602C}|LR3.3\\LR3.3.vcxproj|C:\\Users\\pozzi\\source\\repos\\LR3.3\\LR3.3\\LR3.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E14C348C-D80D-40FE-A1C2-A01A84CD602C}|LR3.3\\LR3.3.vcxproj|C:\\Users\\pozzi\\source\\repos\\LR4.4\\LR3.3\\LR3.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E14C348C-D80D-40FE-A1C2-A01A84CD602C}|LR3.3\\LR3.3.vcxproj|solutionrelative:LR3.3\\LR3.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LR3.3.cpp",
-              "DocumentMoniker": "C:\\Users\\pozzi\\source\\repos\\LR3.3\\LR3.3\\LR3.3.cpp",
+              "DocumentMoniker": "C:\\Users\\pozzi\\source\\repos\\LR4.4\\LR3.3\\LR3.3.cpp",
               "RelativeDocumentMoniker": "LR3.3\\LR3.3.cpp",
-              "ToolTip": "C:\\Users\\pozzi\\source\\repos\\LR3.3\\LR3.3\\LR3.3.cpp",
+              "ToolTip": "C:\\Users\\pozzi\\source\\repos\\LR4.4\\LR3.3\\LR3.3.cpp",
               "RelativeToolTip": "LR3.3\\LR3.3.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwCcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-18T08:05:10.19Z",
               "EditorCaption": ""
